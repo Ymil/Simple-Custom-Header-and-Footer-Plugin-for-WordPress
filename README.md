@@ -20,3 +20,4 @@ Este plugin de WordPress te permite crear y administrar fácilmente encabezados 
 ![image](https://user-images.githubusercontent.com/10056152/236076419-285debc0-ad33-411f-9321-94d4fcef3b07.png)
 
 ¡Listo! Ahora tienes un encabezado y pie de página personalizado para tu sitio web.
+![image](https://user-images.githubusercontent.com/10056152/236076836-2277e68e-a362-460a-b6ee-7b8001c51b4d.png)
